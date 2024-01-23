@@ -22,4 +22,4 @@ The Diabetes Prediction System is a machine learning-based application designed 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction-system.git
+   git clone https://github.com/Muhammad-Nazir4/diabetes-prediction-system.git
